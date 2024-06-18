@@ -1,17 +1,35 @@
 <h1 align="center">Hi 👋, I'm Chirag Bellara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragbellara&label=Profile%20views&color=0e75b6&style=flat" alt="chiragbellara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragbellara" alt="chiragbellara" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [chiragbellara.github.io](chiragbellara.github.io)
 
 - 📫 How to reach me **chiragbellara7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragbellara" height="30" width="40" /></a>
 <a href="https://medium.com/@chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiragbellara" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragbellara" height="30" width="40" /></a>
+
+<p align="center">
+<br/>
+<a href="https://orcid.org/0000-0002-7451-3066">
+  <img alt="Debaditya's Orcid" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" />
+</a>
+<a href="https://www.linkedin.com/in/DebadityaPal">
+  <img alt="Debaditya's LinkdeIN" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://www.facebook.com/debaditya.pal.9">
+  <img alt="Debaditya's Facebook" width="35px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+</a>
+<a href="https://www.instagram.com/the_unburdened_guy/">
+  <img alt="Debaditya's Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
+<a href="https://www.kaggle.com/debadityapal">
+  <img alt="Debaditya's Kaggle" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />
+</a>
+
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
