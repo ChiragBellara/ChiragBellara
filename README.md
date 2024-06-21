@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Chirag Bellara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragbellara&label=Profile%20views&color=0e75b6&style=flat" alt="chiragbellara" /> </p>
+Hi 👋, I'm Chirag Bellara
+===========================
 
-- 👨‍💻 All of my projects are available at [chiragbellara.github.io](chiragbellara.github.io)
+Software Developer
+---------------------------
 
-- 📫 How to reach me **chiragbellara7@gmail.com**
 
-<h3 align="left">Skills</h3>
+
+* 🖥️  See my portfolio at [Chirag Bellara](https://chiragbellara.github.io/)
+* ✉️  You can contact me at [chiragbellara7@gmail.com](mailto:chiragbellara7@gmail.com)
+* 🧠  I'm learning Every Day
+* 🤝  I'm open to collaborating on Open source projects
+* ⚡  I love anime
+
+### Skills
+
 <ul>
 <h5 align="left">Programming Languages</h5>
   <p align="left">
@@ -44,19 +52,13 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36" /></a>
   </p>
 </ul>
-<h3 align="left">Socials</h3>
+
+### Socials
 <p align="left">
   <ul>
-  <a href="https://linkedin.com/in/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragbellara" height="32" width="32" /></a>
+    <a href="https://discord.com/users/Toast#4314" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chiragbellara" width="32" height="32" /></a>
+    <a href="https://linkedin.com/in/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragbellara" height="32" width="32" /></a>
     <a href="https://medium.com/@chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiragbellara" height="32" width="32" /></a>
     <a href="https://www.leetcode.com/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragbellara" height="32" width="32" /></a>
   </ul>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragbellara&show_icons=true&locale=en&layout=compact" alt="chiragbellara" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragbellara&show_icons=true&locale=en" alt="chiragbellara" />
 </p>
