@@ -8,7 +8,7 @@ Hi 👋, I'm Chirag Bellara
       <td>Computer Science Graduate  :computer: </td>
     </tr>
 </table>
----------------------------
+
 
 
 
