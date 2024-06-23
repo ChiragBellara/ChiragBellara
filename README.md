@@ -1,7 +1,13 @@
 Hi 👋, I'm Chirag Bellara
 ===========================
 
-Software Developer
+<table>
+    <tr>
+      <td>Full Stack Developer  :scroll: </td>
+      <td>Machine Learning Enthusiast  :octocat: </td>
+      <td>Computer Science Graduate  :computer: </td>
+    </tr>
+</table>
 ---------------------------
 
 
