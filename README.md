@@ -1,70 +1,32 @@
-Hi 👋, I'm Chirag Bellara
-===========================
+<div id="header" align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp5bzJ3bHczbHZmMWlkNW1qemk5Z3ZzMHRqOW1lenRnb3AzNGh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif" width="100"/>
+    <h2>Hello, I'm Chirag Bellara 👋</h2>
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/chiragbellara/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+        <a href="https://chiragbellara.github.io/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Porfolio Badge"/></a>
+        <a href="https://medium.com/@ChiragBellara"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+    </div>
+</div>
 
-<table>
-    <tr>
-      <td>Full Stack Developer  :scroll: </td>
-      <td>Machine Learning Enthusiast  :octocat: </td>
-      <td>Computer Science Graduate  :computer: </td>
-    </tr>
-</table>
+### Thanks for stopping by. Here's a brief introduction about me...
 
+I am a graduate student at Purdue University, majoring in Computer Science. With three years of experience as a Full Stack Engineer, I have specialized in developing scalable web applications, designing and implementing RESTful APIs, and seamlessly working across both front-end and back-end technologies. I thrive in dynamic environments, where I can adapt to new challenges and contribute effectively to project goals. My ability to translate complex technical concepts into clear, actionable insights has been key in driving successful outcomes and fostering a positive team culture.
 
+- **Tools & Technologies**
+    - Programming Languages: Python, Java, JavaScript, R, C#, TypeScript, SQL, HTML, CSS
+    - Frameworks: React, Angular, Flask, Django, Spring Boot
+    - Database: MySQL, MSSQL, MongoDB, Firebase
+    - AI/ML: TensorFlow, Keras, OpenCV, Pandas, NumPy, Hugging Face
 
+- **Education**
+  - **Purdue University** - Master of Science in Computer Science (Expected Graduation Date - May 2025)
+  - **University of Mumbai** - Bachelors of Engineering in Computer Engineering (2016-2020)
+ 
+- **Projects**
+  Here's some projects I have been working on,
+  - [ViXlate: Video Translation using Deep Learning](https://github.com/ChiragBellara/Video-Translation-Using-Deep-Learning)
+  - [Bias Detection and Mitigation in Large Language Models](https://github.com/ChiragBellara/Bias_Detection_And_Mitigation_In_LLMs)
+  - [Crime Rate Analysis in Toronto](https://github.com/ChiragBellara/Crime_Rate_Analysis_in_Toronto)
 
-* 🖥️  See my portfolio at [Chirag Bellara](https://chiragbellara.github.io/)
-* ✉️  You can contact me at [chiragbellara7@gmail.com](mailto:chiragbellara7@gmail.com)
-* 🧠  I'm learning Every Day
-* 🤝  I'm open to collaborating on Open source projects
-* ⚡  I love anime
-
-### Skills
-
-<ul>
-<h5 align="left">Programming Languages</h5>
-  <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36" /></a>
-  </p>
-
-<h5 align="left">Database</h5>
-  <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="36" height="36"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/></a>
-  </p>
-
-<h5 align="left">Frameworks</h5>
-  <p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="36" height="36"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="36" height="36"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36" height="36"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/></a>
-  </p>
-
-<h5 align="left">AI/ML</h5>
-  <p align="left">
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36" /></a>
-    <a href="https://keras.io" target="_blank" rel="noreferrer"><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="36" height="36" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36" /></a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36" /></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="36" height="36" /></a>
-  </p>
-</ul>
-
-### Socials
-<p align="left">
-  <ul>
-    <a href="https://discord.com/users/Toast#4314" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chiragbellara" width="32" height="32" /></a>
-    <a href="https://linkedin.com/in/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragbellara" height="32" width="32" /></a>
-    <a href="https://medium.com/@chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiragbellara" height="32" width="32" /></a>
-    <a href="https://www.leetcode.com/chiragbellara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragbellara" height="32" width="32" /></a>
-  </ul>
-</p>
+- 📫 **Contact Me:**
+  [Email](chiragbellara7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chiragbellara)
