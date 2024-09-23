@@ -5,6 +5,8 @@
         <a href="https://www.linkedin.com/in/chiragbellara/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
         <a href="https://chiragbellara.github.io/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Porfolio Badge"/></a>
         <a href="https://medium.com/@ChiragBellara"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+        <a href="https://leetcode.com/u/ChiragBellara/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode" alt="Medium Badge"/></a>
+        <a href=""></a>
     </div>
 </div>
 
