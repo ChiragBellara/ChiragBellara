@@ -30,4 +30,4 @@ I am a graduate student at Purdue University, majoring in Computer Science. With
   - [Crime Rate Analysis in Toronto](https://github.com/ChiragBellara/Crime_Rate_Analysis_in_Toronto)
 
 - 📫 **Contact Me:**
-  [Email](chiragbellara7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chiragbellara)
+  [Email](mailto:chiragbellara7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chiragbellara)
